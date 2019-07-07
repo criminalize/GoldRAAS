@@ -5,7 +5,7 @@
 In the client change the user ID to whoever it is.
 <u>I will make a stub generator when I next update it!</u>
 ## NOTES
-- This was going to be the source for a "Ransomware As A Service" which I got bored of developing. I am sure someone who see's this can salvage it.
+1. This was going to be the source for a "Ransomware As A Service" which I got bored of developing. I am sure someone who see's this can salvage it.
 1. The client doesn't look amazing.
 1. This was made for fun, I am not fond of github so tell me if I publishd this wrong.
 1. The client was made in C#. (so it's not native)
