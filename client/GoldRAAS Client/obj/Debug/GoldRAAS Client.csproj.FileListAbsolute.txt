@@ -1,0 +1,10 @@
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\bin\Debug\GoldRAAS Client.exe.config
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\bin\Debug\GoldRAAS Client.exe
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\bin\Debug\GoldRAAS Client.pdb
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\obj\Debug\GoldRAAS Client.csprojAssemblyReference.cache
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\obj\Debug\GoldRAAS_Client.Form1.resources
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\obj\Debug\GoldRAAS_Client.Properties.Resources.resources
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\obj\Debug\GoldRAAS Client.csproj.GenerateResource.cache
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\obj\Debug\GoldRAAS Client.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\obj\Debug\GoldRAAS Client.exe
+C:\Users\Lewis\source\repos\GoldRAAS Client\GoldRAAS Client\obj\Debug\GoldRAAS Client.pdb
